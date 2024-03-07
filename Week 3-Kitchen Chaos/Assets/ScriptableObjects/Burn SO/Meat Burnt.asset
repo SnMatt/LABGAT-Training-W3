@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 17deb7f8d78efaa44bcbdb85d4cd67ca, type: 3}
+  m_Name: Meat Burnt
+  m_EditorClassIdentifier: 
+  Input: {fileID: 11400000, guid: 54a185f9d77a62444b5a502edd3e78ab, type: 2}
+  Output: {fileID: 11400000, guid: 4652c37fe771198459e9ba789b1a92af, type: 2}
+  TimeBurnProgressMax: 6
